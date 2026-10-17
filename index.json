@@ -1,0 +1,11 @@
+{
+  "org": "ros-infrastructure",
+  "repo": "catkin_pkg",
+  "versions": [
+    {
+      "commit": "de8b53fad247540f7c3112ff0c4478d847372c54",
+      "tag": "1.1.1",
+      "parsed_at": "2026-10-17T23:13:12.334330+00:00"
+    }
+  ]
+}
