@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/catkin_pkg/commit/de8b53fad247540f7c3112ff0c4478d847372c54",
       "git:hexsha": "de8b53fad247540f7c3112ff0c4478d847372c54",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.1",
+      "repolex:parsedAt": "2026-10-17T23:13:12.333540+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/catkin_pkg/commit/e798d230fd94bffaa1be2b7d035947f7185e99a4",
